@@ -1,4 +1,6 @@
-# Udacity_blog
+# Udacity_blog: Socioeconomic assessment of T&T
+
+![](Trinidad-and-Tobago-boundaries-map-locator-cities.jpg)
 
 ### Table of Contents
 1. Installation
@@ -27,8 +29,14 @@ Blog Post - Assessment of T&T statistics.ipynb is the jupyter notebook of my ass
 
 ## Results
 It was found that:
-1. UNC led the country through the highest periods of economic growth followed by the PNM.  It should be noted from the scatter plot however, that PNM led the country over a greater period including periods of global economic downturns.  This justifies deepening the understanding of factors which impacted GDP growth to be covered in the next section.
-2. As the energy spend increases, GDP growth decreases.
+1. UNC led the country through the highest periods of economic growth followed by the PNM as seen below.  It should be noted from the scatter plot however, that PNM led the country over a greater period including periods of global economic downturns.  This justifies deepening the understanding of factors which impacted GDP growth to be covered in the next section.
+
+![](q_1.PNG)
+
+2. As the energy spend increases, GDP growth decreases as seen below.
+
+![](q_2.PNG)
+
 3. Overall, the higher the spend on education (measured by Adjusted savings: education expenditure), the lower the unemployment.  This was found to be the strongest correlation. 
 Weaker correlations are also observed in the data above:
 - increasing the propotion of government expenditure in Teritiary school correlates to a decrease in unemployment. 
